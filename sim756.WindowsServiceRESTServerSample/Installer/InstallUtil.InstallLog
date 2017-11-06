@@ -1,0 +1,35 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.exe assembly's progress.
+The file is located at C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.exe assembly's progress.
+The file is located at C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.exe assembly's progress.
+The file is located at C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.exe assembly's progress.
+The file is located at C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.exe assembly's progress.
+The file is located at C:\Users\sim756\Source\Repos\sim756.WindowsServiceRESTServerSample\sim756.WindowsServiceRESTServerSample\bin\Debug\sim756.WindowsServiceRESTServerSample.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
