@@ -8,14 +8,15 @@ namespace sim756.WindowsServiceRESTServerSample
         //http://localhost:10000/api/sample
         [HttpGet]
         public List<string> GetProductList()
-        {
-            List<string> list = new List<string>();
-            list.Add("example 0");
-            list.Add("example 1");
-            list.Add("example 2");
-            list.Add("example 3");
-            list.Add("example 4");
-            return list;
+        {            
+            return new List<string>
+            {
+                "example 0",
+                "example 1",
+                "example 2",
+                "example 3",
+                "example 4"
+            };
         }
     }
 }
